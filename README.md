@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 🤖
 
-#### I'm an Engineering Analyst working in São Paulo, Brasil.
+I'm an Engineering Analyst working in São Paulo, Brasil.
 
 - 🏢 I'm currently working at **Itaú Unibanco**
 - ⚙️ I use daily: `Python`, `Cobol` and `Mainframe`.

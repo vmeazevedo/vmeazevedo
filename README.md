@@ -1,5 +1,7 @@
 ### Hello Friend. 🤖
 
+![giphy](https://user-images.githubusercontent.com/40063504/87205904-e3499500-c2de-11ea-93ec-e197d8f5655a.gif)
+
 I'm an Engineering Analyst working in São Paulo, Brasil.
 
 - 🏢 I'm currently working at **Itaú Unibanco**

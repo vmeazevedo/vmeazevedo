@@ -1,7 +1,8 @@
 
 ![giphy2](https://user-images.githubusercontent.com/40063504/87206039-36234c80-c2df-11ea-83bc-0a6171bfd782.gif)
 
-I'm an Engineering Analyst working in São Paulo, Brasil.
+#### I'm an Engineering Analyst working in São Paulo, Brasil.
+Currently I work with high-level programming languages directly on the IBM Mainframe, as a Team Member in a Squad, working on legacy systems in the Data community.
 
 - 🏢 I'm currently working at **Itaú Unibanco**
 - ⚙️ I use daily: `Python`, `Cobol` and `Mainframe`.

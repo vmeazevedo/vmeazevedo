@@ -1,12 +1,10 @@
 ### Hi there 👋
 
+#### I'm a Engineering Analyst working in São Paulo, Brasil.
 
-
-
-
-- 🔭 I’m currently working on Itaú Unibanco.
-- 🌱 I’m currently learning Mainframe IBM z/OS and JAVA.
-- 👯 I’m looking to collaborate on .
+- 🏢 I'm currently working at **Itaú Unibanco**
+- ⚙️ I use daily: `Python`, `Cobol` and `Mainframe`.
+- 🌱 I’m currently learning Java and IBM z/OS.
 - 💬 Ask me about Mainframe, Cobol or Python!
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)](https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)

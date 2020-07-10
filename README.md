@@ -1,4 +1,4 @@
-### Hi there 🤖
+### Hello Friend. 🤖
 
 I'm an Engineering Analyst working in São Paulo, Brasil.
 

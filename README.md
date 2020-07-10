@@ -3,7 +3,7 @@
 
 Currently I work with high-level programming languages directly on the IBM Mainframe, as a Team Member in a Squad, working on legacy systems in the Data community.
 
-- 📍  I'm currently living in São Paulo, Brazil.
+-  📍  I'm currently living in São Paulo, Brazil.
 - 🏢 I'm currently working at **Itaú Unibanco**
 - ⚙️ I use daily: `Python`, `Cobol` and `Mainframe`.
 - 🌱 I’m currently learning Java and IBM z/OS.

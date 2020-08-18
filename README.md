@@ -6,7 +6,7 @@ Currently I work with high-level programming languages directly on the IBM Mainf
 -  📍  I'm currently living in **São Paulo, Brazil**.
 - 🏢 I'm currently working at **Itaú Unibanco**
 - ⚙️ I use daily: `Python`, `Cobol` and `Mainframe`.
-- 🌱 I’m currently learning **Java**.
+- 🌱 I’m currently learning **Java** and **Data Science**.
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)](https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vmeazevedo)](https://twitter.com/vmeazevedo)

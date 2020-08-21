@@ -1,7 +1,7 @@
 
 ![giphy2](https://user-images.githubusercontent.com/40063504/87206039-36234c80-c2df-11ea-83bc-0a6171bfd782.gif)
 
-Currently I work with high-level programming languages directly on the IBM Mainframe, as a Team Member in a Squad, working on legacy systems in the Data community.
+I currently work at Itaú Unibanco in the Data community, qualifying and distributing registration, negative and payment information, through simple and reusable solutions to assist in business decision making and credit granting.
 
 -  📍  I'm currently living in **São Paulo, Brazil**.
 - 🏢 I'm currently working at **Itaú Unibanco**

@@ -16,4 +16,4 @@ I currently work at Itaú Unibanco in the Data community, qualifying and distrib
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmeazevedo&show_icons=true&theme=dark)
 
-https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/25379171
+

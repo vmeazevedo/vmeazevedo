@@ -20,8 +20,8 @@ Currently I work at Itaú Unibanco in the Data Community, qualifying and distrib
 
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="JavaScript"/></code>
+<code><img height="32" src="https://www.krescentglobal.com/images/iphone/cobol-1.png" alt="Cobol"/></code>
 <code><img height="32" src="https://platform3solutions.com/wp-content/uploads/2020/02/ibm-mainframe-2.png" alt="Mainframe"/></code>
-
 
 `Databases`
 
@@ -34,7 +34,7 @@ Currently I work at Itaú Unibanco in the Data Community, qualifying and distrib
 
 `RPA`
 
-<code><img height="32" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/vqgertgtthpygrr2tcyb" alt="Automation Anywhere"/></code>
+<code><img height="38" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/vqgertgtthpygrr2tcyb" alt="Automation Anywhere"/></code>
 
 `Data analysis`
 
@@ -42,10 +42,10 @@ Currently I work at Itaú Unibanco in the Data Community, qualifying and distrib
 
 `DevOps`
 
-<code><img height="32" src="https://cdn1.iconfinder.com/data/icons/Vista-Inspirate_1.0/128x128/apps/debian.png" alt="Debian"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1501021339/341/git.png?1501021339" alt="Git"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" alt="Github"/></code>
-
+<code><img height="32" src="https://cdn1.iconfinder.com/data/icons/Vista-Inspirate_1.0/128x128/apps/debian.png" alt="Debian"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1462400762/397/docker.png?1462400762" alt="Docker"/></code>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmeazevedo&show_icons=true&theme=dark)

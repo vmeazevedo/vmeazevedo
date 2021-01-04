@@ -21,6 +21,7 @@ Currently I work at Itaú Unibanco in the Data Community, qualifying and distrib
 `Programming language:` 
 
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python"/></code>
+<code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450733280/232/java.png?1450733280" alt="Java"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="JavaScript"/></code>
 <code><img height="32" src="https://www.krescentglobal.com/images/iphone/cobol-1.png" alt="Cobol"/></code>
 <code><img height="32" src="https://platform3solutions.com/wp-content/uploads/2020/02/ibm-mainframe-2.png" alt="Mainframe"/></code>

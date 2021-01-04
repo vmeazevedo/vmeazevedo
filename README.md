@@ -15,32 +15,33 @@ Currently I work at Itaú Unibanco in the Data Community, qualifying and distrib
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)](https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:vmeazevedo@gmail.com)
 
+*MY STACK*
 
-`My Stack` 
+`Programming language:` 
 
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" alt="JavaScript"/></code>
 <code><img height="32" src="https://www.krescentglobal.com/images/iphone/cobol-1.png" alt="Cobol"/></code>
 <code><img height="32" src="https://platform3solutions.com/wp-content/uploads/2020/02/ibm-mainframe-2.png" alt="Mainframe"/></code>
 
-`Databases`
+`Databases:`
 
 <code><img height="32" src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/mysql_database_logo_data_base-512.png" alt="MySQL"/></code>
 <code><img height="32" src="https://d1.awsstatic.com/logos/partners/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png" alt="MariaDB"/></code>
 
-`Cloud`
+`Cloud:`
 
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" alt="AWS"/></code>
 
-`RPA`
+`RPA:`
 
 <code><img height="38" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/vqgertgtthpygrr2tcyb" alt="Automation Anywhere"/></code>
 
-`Data analysis`
+`Data analysis:`
 
 <code><img height="32" src="https://images.squarespace-cdn.com/content/v1/5416c8cde4b0c669adffcf46/1412680960043-R5V01YAVXMYQZBR167CN/ke17ZwdGBToddI8pDm48kEvNQT6O-2bNXVq9G_geSGwUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcpwpnhkrxr_BwU2fV8OpKDATZWVROuZrj-b9BBtNnO0_mCrqxF3sb8T4Zosdt1CP9/alteryx_logo.png?format=500w" alt="Alteryx"/></code>
 
-`DevOps`
+`DevOps:`
 
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1501021339/341/git.png?1501021339" alt="Git"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151" alt="Github"/></code>

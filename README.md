@@ -21,5 +21,5 @@ Currently I work at Itaú Unibanco in the Data Community, qualifying and distrib
 
 
 
-:python: :cobol:
 
+<code><img height="32" src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/mysql_database_logo_data_base-512.png" alt="MySQL"/></code>

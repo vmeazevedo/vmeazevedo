@@ -17,10 +17,12 @@ Currently I work at Itaú Unibanco in the Data Community, qualifying and distrib
 
 
 ** My Stack **
+
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python"/></code>
 <code><img height="32" src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/mysql_database_logo_data_base-512.png" alt="MySQL"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1507180554/2988/aws.png?1507180554" alt="AWS"/></code>
-
+<code><img height="32" src="https://cdn1.iconfinder.com/data/icons/Vista-Inspirate_1.0/128x128/apps/debian.png" alt="Debian"/></code>
+<code><img height="32" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/vqgertgtthpygrr2tcyb" alt="Automation Anywhere"/></code>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmeazevedo&show_icons=true&theme=dark)
 

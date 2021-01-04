@@ -19,7 +19,7 @@ Currently I work at Itaú Unibanco in the Data Community, qualifying and distrib
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmeazevedo&show_icons=true&theme=dark)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmeazevedo)](https://github.com/anuraghazra/github-readme-stats)
 
 
+:python: :cobol:
 

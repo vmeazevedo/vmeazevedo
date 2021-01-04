@@ -15,7 +15,8 @@ Currently I work at Itaú Unibanco in the Data Community, qualifying and distrib
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)](https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:vmeazevedo@gmail.com)
 
-*MY STACK*
+<br/>
+<br/>
 
 `Programming language:` 
 
@@ -48,7 +49,8 @@ Currently I work at Itaú Unibanco in the Data Community, qualifying and distrib
 <code><img height="32" src="https://cdn1.iconfinder.com/data/icons/Vista-Inspirate_1.0/128x128/apps/debian.png" alt="Debian"/></code>
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1462400762/397/docker.png?1462400762" alt="Docker"/></code>
 
-
+<br/>
+<br/>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmeazevedo&show_icons=true&theme=dark)
 
 

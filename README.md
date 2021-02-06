@@ -6,7 +6,7 @@ In the aerospace segment I worked on the development of algorithms for automatin
 
 In the automotive segment, I approved, tested and assisted in the development of several firmwares and applications developed by OnStar (Chevrolet) that impacted more than 150 thousand consumers in Brazil.
 
-Currently I work at Itaú Unibanco in the Data Community, qualifying and distributing registration, negative and payment information, through solutions via Mainframe to assist in the decision making of the business and credit granting team.
+Currently I work at Itaú Unibanco in the Data Community, in registration information projects, negative payments and, through solutions via Mainframe, Java and Cloud AWS to assist in the decision making of the business and credit granting team.
 
 -  📍  I'm currently living in **São Paulo, Brazil**.
 - 🏢 I'm currently working at **Itaú Unibanco**

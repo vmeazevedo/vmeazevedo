@@ -11,14 +11,14 @@ Currently I work at Itaú Unibanco in the Data Community, qualifying and distrib
 -  📍  I'm currently living in **São Paulo, Brazil**.
 - 🏢 I'm currently working at **Itaú Unibanco**
 - ⚙️ I use daily: `Python`, `Cobol`, and `Mainframe`.
-- 🌱 I’m currently learning **Amazon Web Service**.
+- 🌱 I’m currently learning **Java**.
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)](https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:vmeazevedo@gmail.com)
 
 <br/>
 
-`Programming language:` **Python**, **Java**, **Cobol**, **JavaScript**
+`Programming language:` **Python**, **Java**, **Cobol**
 
 `Databases:` **MySQL**, **MariaDB**
 

@@ -24,8 +24,8 @@ Currently I work at Itaú Unibanco in the Data Community, in registration inform
 These are some of the technologies and tools that I work with:
 
 `Programming language:`![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=Java)
-![Cobol](https://img.shields.io/badge/-Cobol-181717?style=flat-square&logo=Cobol)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Cobol](https://img.shields.io/badge/-Cobol-darkblue?style=flat-square&logo=Cobol)
 
 
 `Databases:` **MySQL**, **MariaDB**

@@ -37,6 +37,9 @@ These are some of the technologies and tools that I work with:
 
 <br/>
 
+[GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+[Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmeazevedo&show_icons=true&theme=dark)
 
 

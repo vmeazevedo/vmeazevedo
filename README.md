@@ -6,7 +6,7 @@ In the aerospace segment I worked on the development of algorithms for automatin
 
 In the automotive segment, I approved, tested and assisted in the development of several firmwares and applications developed by OnStar (Chevrolet) that impacted more than 150 thousand consumers in Brazil.
 
-Currently I work at Itaú Unibanco in the Data Community, in registration information projects, negative payments and, through solutions via Mainframe, Java and Cloud AWS to assist in the decision making of the business and credit granting team.
+Currently I work at Itaú Unibanco in the Data Community, working in cadastral information projects, negativity and payments, through solutions via Mainframe, Java and Cloud AWS to assist in the decision making of the business and credit granting team.
 
 -  📍  I'm currently living in **São Paulo, Brazil**.
 - ⚙️ I use daily: `Python`, `Cobol`, and `Mainframe`.
@@ -28,7 +28,7 @@ These are some of the technologies and tools that I work with:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-4479A1?style=flat-square&logo=MariaDB&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=AWS&logoColor=white)
-![Automation Anywhere](https://img.shields.io/badge/-Automation Anywhere-E34F26?style=flat-square&logo=Automation Anywhere&logoColor=white)
+![Automation-Anywhere](https://img.shields.io/badge/-Automation-Anywhere-E34F26?style=flat-square&logo=Automation-Anywhere&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/-Alteryx-1572B6?style=flat-square&logo=Alteryx)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)

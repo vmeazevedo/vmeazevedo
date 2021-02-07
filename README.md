@@ -1,6 +1,6 @@
+### Hi there 👋
 
-![giphy2](https://user-images.githubusercontent.com/40063504/87206039-36234c80-c2df-11ea-83bc-0a6171bfd782.gif)
-<br/>
+I'm Vinícius Azevedo, and I'm a Software Engineer at Itaú Unibanco and I've been working in tech since 2016.
 
 In the aerospace segment I worked on the development of algorithms for automating routines, calculations and functionality of electronic modules. I also participated in the development of the first idealized nano satellite, developed and produced by a Brazilian startup, entirely funded via crowdfunding.
 
@@ -9,7 +9,6 @@ In the automotive segment, I approved, tested and assisted in the development of
 Currently I work at Itaú Unibanco in the Data Community, in registration information projects, negative payments and, through solutions via Mainframe, Java and Cloud AWS to assist in the decision making of the business and credit granting team.
 
 -  📍  I'm currently living in **São Paulo, Brazil**.
-- 🏢 I'm currently working at **Itaú Unibanco**
 - ⚙️ I use daily: `Python`, `Cobol`, and `Mainframe`.
 - 🌱 I’m currently learning **Java**.
 - 📫 How to reach me:
@@ -23,26 +22,25 @@ Currently I work at Itaú Unibanco in the Data Community, in registration inform
 
 These are some of the technologies and tools that I work with:
 
-`Programming language:`![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Cobol](https://img.shields.io/badge/-Cobol-darkblue?style=flat-square&logo=Cobol)
-
-
-`Databases:` ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-4479A1?style=flat-square&logo=MariaDB&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=AWS&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/-Automation Anywhere-E34F26?style=flat-square&logo=Automation Anywhere&logoColor=white)
+![Alteryx](https://img.shields.io/badge/-Alteryx-1572B6?style=flat-square&logo=Alteryx)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Mainframe](https://img.shields.io/badge/-Mainframe-black?style=flat-square&logo=Mainframe)
 
-`Cloud:` **Amazon Web Service**
-
-`RPA:` **Automation Anywhere**
-
-`Data analysis:` **Alteryx**
-
-`DevOps:` **Git/Github**, **Linux**, **Docker**
 
 <br/>
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmeazevedo&show_icons=true&theme=dark)
 

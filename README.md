@@ -28,7 +28,7 @@ These are some of the technologies and tools that I work with:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-4479A1?style=flat-square&logo=MariaDB&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=AWS&logoColor=white)
-![Automation-Anywhere](https://img.shields.io/badge/-Automation-Anywhere-E34F26?style=flat-square&logo=Automation-Anywhere&logoColor=white)
+![Automation_Anywhere](https://img.shields.io/badge/-Automation_Anywhere-E34F26?style=flat-square&logo=Automation_Anywhere&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/-Alteryx-1572B6?style=flat-square&logo=Alteryx)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)

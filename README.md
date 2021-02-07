@@ -28,7 +28,8 @@ These are some of the technologies and tools that I work with:
 ![Cobol](https://img.shields.io/badge/-Cobol-darkblue?style=flat-square&logo=Cobol)
 
 
-`Databases:` **MySQL**, **MariaDB**
+`Databases:` ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-4479A1?style=flat-square&logo=MariaDB&logoColor=white)
 
 `Cloud:` **Amazon Web Service**
 

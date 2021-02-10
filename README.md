@@ -7,7 +7,7 @@ Currently I work at Itaú Unibanco in the Data Community, working in cadastral i
 - 🌱 I’m currently learning **Java**.
 - 📫 How to reach me:
 [![Twitter Follow](https://img.shields.io/twitter/follow/mallonerz?style=social)](https://twitter.com/mallonerz)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)](https://www.linkedin.com/in/vin%C3%ADcius-a-45180ab2/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:vmeazevedo@gmail.com)
 
 <br/>

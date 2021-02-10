@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm Vinícius Azevedo, and I'm a Software Engineer at Itaú Unibanco and I've been working in tech since 2016.
 
 In the aerospace segment I worked on the development of algorithms for automating routines, calculations and functionality of electronic modules. I also participated in the development of the first idealized nano satellite, developed and produced by a Brazilian startup, entirely funded via crowdfunding.

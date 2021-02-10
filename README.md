@@ -1,13 +1,9 @@
-I'm Vinícius Azevedo, and I'm a Software Engineer at Itaú Unibanco and I've been working in tech since 2016.
-
-In the aerospace segment I worked on the development of algorithms for automating routines, calculations and functionality of electronic modules. I also participated in the development of the first idealized nano satellite, developed and produced by a Brazilian startup, entirely funded via crowdfunding.
-
-In the automotive segment, I approved, tested and assisted in the development of several firmwares and applications developed by OnStar (Chevrolet) that impacted more than 150 thousand consumers in Brazil.
+I'm Vinícius Azevedo.
 
 Currently I work at Itaú Unibanco in the Data Community, working in cadastral information projects, negativity and payments, through solutions via Mainframe, Java and Cloud AWS to assist in the decision making of the business and credit granting team.
 
 -  📍  I'm currently living in **São Paulo, Brazil**.
-- ⚙️ I use daily: `Python`, `Cobol`, and `Mainframe`.
+- ⚙️ I use daily: `Python`, `Java`, `Cobol`, and `Mainframe`.
 - 🌱 I’m currently learning **Java**.
 - 📫 How to reach me:
 [![Twitter Follow](https://img.shields.io/twitter/follow/mallonerz?style=social)](https://twitter.com/mallonerz)

@@ -1,6 +1,6 @@
 I'm Vinícius Azevedo.
 
-Currently I work at Itaú Unibanco in the Data Community, working in cadastral information projects, negativity and payments, through solutions via Mainframe, Java and Cloud AWS to assist in the decision making of the business and credit granting team.
+Currently I work at Itaú Unibanco in the Data Community, working in cadastral information projects, negativity and payments, through solutions via Mainframe, Java, Python and Cloud AWS to assist in the decision making of the business and credit granting team.
 
 -  📍  I'm currently living in **São Paulo, Brazil**.
 - ⚙️ I use daily: `Python`, `Java`, `Cobol`, and `Spring Boot`.

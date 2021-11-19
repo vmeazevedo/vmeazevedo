@@ -8,7 +8,7 @@ I currently work at Itaú Unibanco in the Data Community, in projects involving 
 
 - 📍  I'm currently living in **São Paulo, Brazil**.
 - ⚙️ I use daily: `Python`, `Java`.
-- 🌱 I'm currently building my own **Satellite**.
+- 🌱 I'm currently studying **Shell Script**.
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:vmeazevedo@gmail.com)

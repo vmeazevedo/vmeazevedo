@@ -15,26 +15,20 @@ I currently work at Itaú Unibanco in the Data Community, in projects involving 
 
 <br/>
 
-## ⚡ Technologies
+### ⚡ Skills:
+- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![Cobol](https://img.shields.io/badge/-Cobol-darkblue?style=flat-square&logo=Cobol) ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=Pandas&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)  ![Flask](https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF) ![AWS](https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=AWS&logoColor=white) ![Automation_Anywhere](https://img.shields.io/badge/-Automation_Anywhere-E34F26?style=flat-square&logo=Automation_Anywhere&logoColor=white) ![Alteryx](https://img.shields.io/badge/-Alteryx-1572B6?style=flat-square&logo=Alteryx) ![Mainframe](https://img.shields.io/badge/-Mainframe-black?style=flat-square&logo=Mainframe) ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 
-These are some of the technologies and tools that I work with:
 
-![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Cobol](https://img.shields.io/badge/-Cobol-darkblue?style=flat-square&logo=Cobol)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-4479A1?style=flat-square&logo=MariaDB&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=AWS&logoColor=white)
-![Automation_Anywhere](https://img.shields.io/badge/-Automation_Anywhere-E34F26?style=flat-square&logo=Automation_Anywhere&logoColor=white)
-![Alteryx](https://img.shields.io/badge/-Alteryx-1572B6?style=flat-square&logo=Alteryx)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Mainframe](https://img.shields.io/badge/-Mainframe-black?style=flat-square&logo=Mainframe)
-![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka)
+### 📦 Databases:
+- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF) ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&logo=Microsoft%20SQL%20Server&logoColor=FFFFFF)
+
+
+### 🧰 Tools:
+- ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?&logo=Visual%20Studio&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=FFFFFF) ![Xampp](https://img.shields.io/badge/-XAMPP-FB7A24?&logo=XAMPP&logoColor=FFFFFF) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=GitLab&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+
+
+### 📈  Most used languages
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vmeazevedo-dev&hide=scss,JavaScript,PowerShell,C++,Td,Tex,Fortran,C&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 
 <br/>

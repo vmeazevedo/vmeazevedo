@@ -7,7 +7,7 @@ In the automotive segment, I approved, tested and helped in the development of s
 I currently work at Itaú Unibanco in the Data Community, in projects involving registration information, negative payment and payments, through solutions via Mainframe, Java, Python and Cloud AWS to assist in the decision-making process of the business and credit granting team.
 
 - 📍  I'm currently living in **São Paulo, Brazil**.
-- ⚙️ I use daily: `Python`, `Java`.
+- ⚙️ I use daily: `Python`, `AWS`.
 - 🌱 I'm currently studying **Shell Script**.
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)

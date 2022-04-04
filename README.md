@@ -1,6 +1,6 @@
 I'm Vinícius Azevedo.
 
-![aqui](https://user-images.githubusercontent.com/40063504/161460312-bc0fc6d9-4142-44b0-9979-2171915d539c.jpeg)
+![aqui](https://user-images.githubusercontent.com/40063504/161460312-bc0fc6d9-4142-44b0-9979-2171915d539c.jpeg =250x250)
 
 In the aerospace segment I worked on the development of algorithms for automating routines, calculations and functionality of electronic modules and satellite sensors (Cubesats, Cansats and Picosats). I also participated in the development of the first nano satellite conceived, developed and produced by a Brazilian startup, entirely funded via crowdfunding.
 

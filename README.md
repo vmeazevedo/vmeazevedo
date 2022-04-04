@@ -17,6 +17,7 @@ I currently work at Itaú Unibanco in the Data Community, in projects involving 
 
 ### :trophy: My favorite projects:
 [myCrypto_MercadoBitcoin](https://github.com/vmeazevedo/myCrypto_MercadoBitcoin)
+
 [pyForms_OpenCV-MySQL](https://github.com/vmeazevedo/pyForms_OpenCV-MySQL)
 
 

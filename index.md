@@ -20,6 +20,8 @@ I currently work at Itaú Unibanco in the Data Community, in projects involving 
 
 [pyForms_OpenCV-MySQL](https://github.com/vmeazevedo/pyForms_OpenCV-MySQL)
 
+[Ciência Sem Fim - Vinícius Azevedo](https://www.youtube.com/watch?v=IScvQU9N1zk&ab_channel=Ci%C3%AAnciaSemFim)
+
 
 ### ⚡ Skills:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![Cobol](https://img.shields.io/badge/-Cobol-darkblue?style=flat-square&logo=Cobol) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-FFFFFF?style=flat-square&logo=AWS&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)  ![Flask](https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF) ![AWS](https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=AWS&logoColor=white) ![Automation_Anywhere](https://img.shields.io/badge/-Automation_Anywhere-E34F26?style=flat-square&logo=Automation_Anywhere&logoColor=white) ![Alteryx](https://img.shields.io/badge/-Alteryx-1572B6?style=flat-square&logo=Alteryx) ![Mainframe](https://img.shields.io/badge/-Mainframe-black?style=flat-square&logo=Mainframe) ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 

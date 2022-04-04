@@ -1,7 +1,5 @@
 I'm Vinícius Azevedo.
 
-<img src="https://user-images.githubusercontent.com/40063504/161460312-bc0fc6d9-4142-44b0-9979-2171915d539c.jpeg" width="200" height="200" />
-
 In the aerospace segment I worked on the development of algorithms for automating routines, calculations and functionality of electronic modules and satellite sensors (Cubesats, Cansats and Picosats). I also participated in the development of the first nano satellite conceived, developed and produced by a Brazilian startup, entirely funded via crowdfunding.
 
 In the automotive segment, I approved, tested and helped in the development of several firmwares and applications developed by OnStar (Chevrolet) that impacted more than 150 thousand consumers in Brazil.

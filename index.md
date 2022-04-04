@@ -1,5 +1,7 @@
 ![Captura_de_tela_2022-04-03_230243-removebg-preview](https://user-images.githubusercontent.com/40063504/161462242-94c20c21-d894-486e-989b-e585478f099f.png)
 
+![vINÍCIUS_aZEVEDO-removebg-preview](https://user-images.githubusercontent.com/40063504/161462352-b3e15a68-e92d-4644-b76c-4cd315e38a71.png)
+
 
 I'm Vinícius Azevedo.
 

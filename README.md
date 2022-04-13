@@ -16,16 +16,24 @@ I currently work at Itaú Unibanco in the Data Community, in projects involving 
 <br/>
 
 ### :trophy: My favorite projects:
+**myCrypto_MercadoBitcoin**
+Aplicação de monitoramento de valores de criptos através da API do Mercado Bitcoin via terminal ou utilizando o Bot Telegram integrado **@my_mb_bot**.
 [myCrypto_MercadoBitcoin](https://github.com/vmeazevedo/myCrypto_MercadoBitcoin)
 
+
+**pyForms_OpenCV-MySQL**
+Aplicação CRUD com possibilidade de integração com uma base de dados na nuvem (RDS-AWS) integrada a um sistema de reconhecimento facial diretamente da base de dados, retornando no frame os dados encontrados.
 [pyForms_OpenCV-MySQL](https://github.com/vmeazevedo/pyForms_OpenCV-MySQL)
 
+
+**Entrevista - Ciência Sem Fim**
+Entrevista dada para o canal Ciência Sem Fim do Sergio Sacanni (Space Today) a respeito do desenvolvimento de software no segmento aeroespacial.
 [Ciência Sem Fim - Vinícius Azevedo](https://www.youtube.com/watch?v=IScvQU9N1zk&ab_channel=Ci%C3%AAnciaSemFim)
 
 
 ### ⚡ Skills:
-- <img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java">
+<img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java">
 			<img src="https://img.shields.io/badge/-Cobol-3776AB?&logo=Cobol&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-SpringBoot-green?&logo=SpringBoot&logoColor=FFFFFF">

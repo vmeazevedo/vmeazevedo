@@ -36,11 +36,19 @@ I currently work at Itaú Unibanco in the Data Community, in projects involving 
 
 
 ### 📦 Databases:
-- ![MySql](https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF) ![PostgreSql](https://img.shields.io/badge/-PostgreSql-336791?&logo=postgresql&logoColor=FFFFFF) ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF) ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&logo=Microsoft%20SQL%20Server&logoColor=FFFFFF)
+- <img src="https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&logo=Microsoft%20SQL%20Server&logoColor=FFFFFF">
 
 
 ### 🧰 Tools:
-- ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF) ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?&logo=Visual%20Studio&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?&logo=Postman&logoColor=FFFFFF) ![Xampp](https://img.shields.io/badge/-XAMPP-FB7A24?&logo=XAMPP&logoColor=FFFFFF) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?&logo=GitLab&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF) ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+- <img src="https://img.shields.io/badge/-Eclipse-2C2255?&logo=eclipse&logoColor=white">
+			<img src="https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-GitLab-FCA121?&logo=GitLab&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF">
 
 
 

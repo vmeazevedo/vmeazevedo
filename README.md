@@ -32,7 +32,7 @@ Entrevista dada para o canal Ciência Sem Fim do Sergio Sacanni (Space Today) a 
 
 
 ### ⚡ Skills:
-<img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF">
+- <img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java">
 			<img src="https://img.shields.io/badge/-Cobol-3776AB?&logo=Cobol&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF">

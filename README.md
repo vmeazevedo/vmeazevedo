@@ -57,5 +57,5 @@ I currently work at Itaú Unibanco in the Data Community, in projects involving 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmeazevedo&show_icons=true&theme=dark)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vmeazevedo)](https://github.com/anuraghazra/github-readme-stats)
+
 

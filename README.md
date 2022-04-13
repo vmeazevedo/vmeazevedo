@@ -34,6 +34,7 @@ Entrevista dada para o canal Ciência Sem Fim do Sergio Sacanni (Space Today) a 
 [Ciência Sem Fim - Vinícius Azevedo](https://www.youtube.com/watch?v=IScvQU9N1zk&ab_channel=Ci%C3%AAnciaSemFim)
 
 
+
 ### ⚡ Skills:
 - <img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java">

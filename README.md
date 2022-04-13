@@ -24,7 +24,15 @@ I currently work at Itaú Unibanco in the Data Community, in projects involving 
 
 
 ### ⚡ Skills:
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+- <img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java">
+			<img src="https://img.shields.io/badge/-Cobol-3776AB?&logo=Cobol&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-SpringBoot-green?&logo=SpringBoot&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-AWS-orange?&logo=AWS&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-Mainframe-black?&logo=Mainframe&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-Kafka-black?&logo=Kafka&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white">
 
 
 ### 📦 Databases:

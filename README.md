@@ -21,6 +21,11 @@ Crypto value monitoring application through Bitcoin Market API via terminal or u
 
 [myCrypto_MercadoBitcoin](https://github.com/vmeazevedo/myCrypto_MercadoBitcoin)
 
+- REST-API_Gerenciamento-Hoteis_Flask-MVC: 
+REST API application for managing hotel registration information in Python using Flask Framework and MVC standard with control of user registration, login and logout.
+
+[REST-API_Gerenciamento-Hoteis_Flask-MVC](https://github.com/vmeazevedo/REST-API_Gerenciamento-Hoteis_Flask-MVC)
+
 
 - pyForms_OpenCV-MySQL:
 CRUD application with the possibility of integration with a cloud database (RDS-AWS) integrated with a facial recognition system directly from the database, returning the data found in the frame.

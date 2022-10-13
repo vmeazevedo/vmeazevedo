@@ -55,9 +55,9 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
 
 
 ### 🧰 Tools:
-- <img src="https://img.shields.io/badge/-Eclipse-2C2255?&logo=eclipse&logoColor=white">
-			<img src="https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF">
+- <img src="https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white">
 			<img src="https://img.shields.io/badge/-GitLab-FCA121?&logo=GitLab&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF">

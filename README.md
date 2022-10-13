@@ -42,26 +42,37 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
 
 ### ⚡ Skills:
 - <img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/FastAPI-005571?&logo=fastapi">
 			<img src="https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-AWS-orange?&logo=AWS&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-Kafka-black?&logo=Kafka&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white">
-
+			<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white">
+			<img src="https://img.shields.io/badge/terraform-%235835CC.svg?&logo=terraform&logoColor=white">
 
 ### 📦 Databases:
 - <img src="https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&logo=Microsoft%20SQL%20Server&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white">
 
 
 ### 🧰 Tools:
-- <img src="https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF">
+- <img src="https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF">	
 			<img src="https://img.shields.io/badge/splunk-%23000000.svg?&logo=splunk&logoColor=white">
+			<img src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-GitLab-FCA121?&logo=GitLab&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/grafana-%23F46800.svg?&logo=grafana&logoColor=white">
+			<img src="https://img.shields.io/badge/splunk-%23000000.svg?&logo=splunk&logoColor=white">
 			<img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white">
+			<img src="https://img.shields.io/badge/Insomnia-black?&logo=insomnia&logoColor=5849BE">
+			<img src="https://img.shields.io/badge/heroku-%23430098.svg?&logo=heroku&logoColor=white">
+			<img src="https://img.shields.io/badge/-Swagger-%23Clojure?&logo=swagger&logoColor=white">
+			<img src="https://img.shields.io/badge/confluence-%23172BF4.svg?&logo=confluence&logoColor=white">
+			<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?&logo=jira&logoColor=white">
 
 
 

@@ -44,8 +44,7 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
 - <img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF">
 			<img src="https://img.shields.io/badge/FastAPI-005571?&logo=fastapi">
 			<img src="https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/-AWS-orange?&logo=AWS&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/-Kafka-black?&logo=Kafka&logoColor=FFFFFF">
+			<img src="https://img.shields.io/badge/Apache%20Kafka-000?&logo=apachekafka">
 			<img src="https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white">
 			<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white">
 			<img src="https://img.shields.io/badge/terraform-%235835CC.svg?&logo=terraform&logoColor=white">

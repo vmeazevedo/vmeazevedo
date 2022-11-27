@@ -48,6 +48,8 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
 			<img src="https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white">
 			<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white">
 			<img src="https://img.shields.io/badge/terraform-%235835CC.svg?&logo=terraform&logoColor=white">
+			![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 ### 📦 Databases:
 - <img src="https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF">

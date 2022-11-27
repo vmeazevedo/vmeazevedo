@@ -40,41 +40,65 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
 
 <br>
 
-### ⚡ Skills:
-- <img src="https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/FastAPI-005571?&logo=fastapi">
-			<img src="https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/Apache%20Kafka-000?&logo=apachekafka">
-			<img src="https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white">
-			<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&logo=amazon-aws&logoColor=white">
-			<img src="https://img.shields.io/badge/terraform-%235835CC.svg?&logo=terraform&logoColor=white">
-			![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### Languages
+-	<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white>
+		<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white>
+		<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white>
+		<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54>
+		<img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white>
 
+### Database
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white>
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white>
 
-### 📦 Databases:
-- <img src="https://img.shields.io/badge/-MySql-003B57?&logo=MySQL&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&logo=Microsoft%20SQL%20Server&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/postgres-%23316192.svg?&logo=postgresql&logoColor=white">
+### Framework
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka>
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi>
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white>
+<img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE>
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white>
 
+### SaaS
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white>
+<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white>
 
-### 🧰 Tools:
-- <img src="https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF">	
-			<img src="https://img.shields.io/badge/splunk-%23000000.svg?&logo=splunk&logoColor=white">
-			<img src="https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/-GitLab-FCA121?&logo=GitLab&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/grafana-%23F46800.svg?&logo=grafana&logoColor=white">
-			<img src="https://img.shields.io/badge/splunk-%23000000.svg?&logo=splunk&logoColor=white">
-			<img src="https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF">
-			<img src="https://img.shields.io/badge/Postman-FF6C37?&logo=postman&logoColor=white">
-			<img src="https://img.shields.io/badge/Insomnia-black?&logo=insomnia&logoColor=5849BE">
-			<img src="https://img.shields.io/badge/heroku-%23430098.svg?&logo=heroku&logoColor=white">
-			<img src="https://img.shields.io/badge/-Swagger-%23Clojure?&logo=swagger&logoColor=white">
-			<img src="https://img.shields.io/badge/confluence-%23172BF4.svg?&logo=confluence&logoColor=white">
-			<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?&logo=jira&logoColor=white">
+### ML/DL
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white>
 
+### Version Control
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white>
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white>
+<img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white>
+
+### IDE/Editors
+<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black>
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green>
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white>
+
+### Operating System
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white>
+
+### Tools
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white>
+<img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white>
+<img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white>
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white>
+<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi>
+<img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white>
+<img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white>
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white>
+<img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white>
 
 
 <br/>

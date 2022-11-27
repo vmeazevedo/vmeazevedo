@@ -59,7 +59,6 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
-    <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
 
 ### ☁️ SaaS
 -   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">

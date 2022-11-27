@@ -4,7 +4,7 @@ In the aerospace segment I worked in the development of communication systems, t
 
 In the automotive segment, I worked in the development, approval and testing of several firmwares and applications developed by OnStar Brasil (Chevrolet), which impacted more than 150 thousand consumers in Brazil in General Motors cars.
 
-Currently I work at Itaú Unibanco in the engineering body of the data director, in projects of registration information, negation and payments, developing REST API's Python, performing analysis and data processing, development and migration of applications and microservices to AWS cloud and monitoring of applications in every CI/CD.
+I currently work at Itaú Unibanco in the engineering department of the data department, in projects of information registration, negation and payments, developing REST API's Python, applications and ECS Tasks to carry out data and file processing, analysis and data processing, development and migration of applications and microservices to the AWS cloud and application monitoring in each CI/CD.
 
 - 📍  I'm currently living in **São Paulo, Brazil**.
 - ⚙️ I use daily: `Python`, `AWS`.

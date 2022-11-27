@@ -10,6 +10,7 @@ I currently work at Itaú Unibanco in the engineering department of the data dep
 - ⚙️ I use daily: `Python`, `AWS`.
 - 🌱 I'm currently studying **English**.
 - 📝 English: EFSET English Certificate 68/100 (C1 Advanced)
+(https://www.efset.org/cert/zLkYKU)
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:vmeazevedo@gmail.com)

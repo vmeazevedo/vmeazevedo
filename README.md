@@ -82,4 +82,4 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vmeazevedo&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vmeazevedo&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://stardev.io/developers/vmeazevedo"><img alt="Check out vmeazevedo's profile on stardev.io" src="https://stardev.io/developers/vmeazevedo/badge/languages/country.svg" /></a>

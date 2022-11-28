@@ -16,7 +16,10 @@ I currently work at Itaú Unibanco in the engineering department of the data dep
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:vmeazevedo@gmail.com)
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/> 
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmeazevedo" alt="vmeazevedo" /></a>
+</p>
+
 
 ### :trophy: My favorite projects:
 - myCrypto_MercadoBitcoin: 

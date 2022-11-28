@@ -95,10 +95,7 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
 
 <br/>
 
-
-<p align="left"> 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmeazevedo&show_icons=true&theme=dark&background=000000)
-</p>
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vmeazevedo&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 

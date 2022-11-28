@@ -16,11 +16,6 @@ I currently work at Itaú Unibanco in the engineering department of the data dep
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:vmeazevedo@gmail.com)
 <br/>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmeazevedo" alt="vmeazevedo" /></a>
-</p>
-
-
 ### :trophy: My favorite projects:
 - myCrypto_MercadoBitcoin: 
 Crypto value monitoring application through Bitcoin Market API via terminal or using the integrated Bot Telegram **@my_mb_bot**.
@@ -100,6 +95,12 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
 
 <br/>
 
+<div align="center">
+<summary>:trophy: Github Profile Trophy</summary>
+</div>
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmeazevedo" alt="vmeazevedo" /></a>
+</p>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmeazevedo&show_icons=true&theme=dark&background=000000)
 

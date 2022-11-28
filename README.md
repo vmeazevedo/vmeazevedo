@@ -95,15 +95,11 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
 
 <br/>
 
-<div align="center">
-<summary>:trophy: Github Profile Trophy</summary>
-</div>
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmeazevedo" alt="vmeazevedo" /></a>
-</p>
 
+<p align="center"> 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmeazevedo&show_icons=true&theme=dark&background=000000)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vmeazevedo&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://stardev.io/developers/vmeazevedo"><img alt="Check out vmeazevedo's profile on stardev.io" src="https://stardev.io/developers/vmeazevedo/badge/languages/country.svg" /></a>
+</p>

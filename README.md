@@ -1,4 +1,6 @@
-I'm Vinícius Azevedo.
+# 💫 About Me:
+
+I'm Vinícius Azevedo.<br><br>
 
 In the aerospace segment I worked in the development of communication systems, telemetry, flight control, graphic interfaces and subsystems, I also developed algorithms for automating routines, calculations and functionality of electronic modules and satellite sensors (Cubesats, Cansats and Picosats). I participated in the development of the first nano satellite conceived, developed and produced by a Brazilian startup, entirely funded via crowdfunding and presented to AEB - Agência Espacial Brasileira.
 
@@ -14,6 +16,7 @@ I currently work at Itaú Unibanco in the engineering department of the data dep
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:vmeazevedo@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vmeazevedo) 
 <br/>
 
 ### :trophy: My favorite projects:

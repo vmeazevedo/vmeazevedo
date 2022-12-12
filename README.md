@@ -42,8 +42,9 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
 
 [Ciência Sem Fim - Vinícius Azevedo](https://www.youtube.com/watch?v=IScvQU9N1zk&ab_channel=Ci%C3%AAnciaSemFim)
 
-<br>
+<br><br><br>
 
+# 💻 Tech Stack:
 ### 📋 Languages
 -   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
@@ -96,8 +97,9 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 
-<br/>
+<br/><br><br>
 
+# 📊 GitHub Stats:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmeazevedo&show_icons=true&theme=dark&background=000000)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vmeazevedo&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)

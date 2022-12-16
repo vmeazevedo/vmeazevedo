@@ -8,6 +8,7 @@ In the automotive industry, I had the opportunity to develop, test and approve s
 
 I am currently working at Itaú Unibanco as a software engineer in the data department, where I work on information registration, negation and payment projects. My responsibilities include the development of Python REST APIs, applications and ECS Tasks for data and file processing, data analysis, migration of applications and microservices to the AWS cloud and DevOps monitoring.
 
+
 - 📍  I'm currently living in **São Paulo, Brazil**.
 - ⚙️ I use daily: `Python`, `AWS`.
 - 🌱 I'm currently studying **English**.

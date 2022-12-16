@@ -2,11 +2,11 @@
 
 I'm Vinícius Azevedo.<br><br>
 
-In the aerospace segment I worked in the development of communication systems, telemetry, flight control, graphic interfaces and subsystems, I also developed algorithms for automating routines, calculations and functionality of electronic modules and satellite sensors (Cubesats, Cansats and Picosats). I participated in the development of the first nano satellite conceived, developed and produced by a Brazilian startup, entirely funded via crowdfunding and presented to AEB - Agência Espacial Brasileira.
+During my career in aerospace, I had the opportunity to work on the development of communication systems, telemetry, flight control, graphical interfaces and subsystems. In addition, I created algorithms to automate routines, calculate functions and control electronic modules and sensors on satellites, including Cubesats, Cansats and Picosats. I was honored to participate in the project of the first nanosatellite produced by a Brazilian startup, financed by crowdfunding and presented to the Brazilian Space Agency (AEB).
 
-In the automotive segment, I worked in the development, approval and testing of several firmwares and applications developed by OnStar Brasil (Chevrolet), which impacted more than 150 thousand consumers in Brazil in General Motors cars.
+In the automotive industry, I had the opportunity to develop, test and approve several firmwares and applications for OnStar Brasil (Chevrolet), impacting more than 150 thousand consumers in Brazil with General Motors cars.
 
-I currently work at Itaú Unibanco in the engineering department of the data department, in projects of information registration, negation and payments, developing REST API's Python, applications and ECS Tasks to carry out data and file processing, analysis and data processing, development and migration of applications and microservices to the AWS cloud and application monitoring in each CI/CD.
+I am currently working at Itaú Unibanco as a software engineer in the data department, where I work on information registration, negation and payment projects. My responsibilities include the development of Python REST APIs, applications and ECS Tasks for data and file processing, data analysis, migration of applications and microservices to the AWS cloud and DevOps monitoring.
 
 - 📍  I'm currently living in **São Paulo, Brazil**.
 - ⚙️ I use daily: `Python`, `AWS`.

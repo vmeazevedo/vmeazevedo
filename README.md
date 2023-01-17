@@ -26,6 +26,11 @@ Crypto value monitoring application through Bitcoin Market API via terminal or u
 
 [myCrypto_MercadoBitcoin](https://github.com/vmeazevedo/myCrypto_MercadoBitcoin)
 
+- myFII_B3: 
+Tickers B3 values monitoring application via terminal.
+
+[myFII_B3:](https://github.com/vmeazevedo/myFII_B3)
+
 - REST-API-Flask_VINEFLIX: 
 REST API application for managing registration information in Python using Flask Framework and MVC standard with control of user registration, login and logout.
 

@@ -2,22 +2,20 @@
 
 I'm Vinícius Azevedo.<br><br>
 
-During my career in aerospace, I had the opportunity to work on the development of communication systems, telemetry, flight control, graphical interfaces and subsystems. In addition, I created algorithms to automate routines, calculate functions and control electronic modules and sensors on satellites, including Cubesats, Cansats and Picosats. I was honored to participate in the project of the first nanosatellite produced by a Brazilian startup, financed by crowdfunding and presented to the Brazilian Space Agency (AEB).
+During my career in aerospace, I had the opportunity to work on the development of communication systems, telemetry, flight control, graphical interfaces and subsystems. Additionally, I created algorithms to automate routines, calculate functions and control electronic modules and sensors on satellites, including Cubesats, Cansats and Picosats. I had the honor of participating in the project of the first nanosatellite produced by a Brazilian startup, financed by crowdfunding and presented to the Brazilian Space Agency (AEB).
 
-In the automotive industry, I had the opportunity to develop, test and approve several firmwares and applications for OnStar Brasil (Chevrolet), impacting more than 150 thousand consumers in Brazil with General Motors cars.
+In the automobile industry, I had the opportunity to develop, test and approve several firmwares and applications for OnStar Brasil (Chevrolet), impacting more than 150 thousand consumers in Brazil with General Motors cars.
 
-I am currently working at Itaú Unibanco as a software engineer in the data department, where I work on information registration, negation and payment projects. My responsibilities include the development of Python REST APIs, applications and ECS Tasks for data and file processing, data analysis, migration of applications and microservices to the AWS cloud and DevOps monitoring.
-
+I currently play the role of Digital Products Analyst at Itaú Unibanco, in the Data Department. Managing and improving products related to Bacen SCR Risk (DOC3045, DOC3046), Registration Recording Systems and Denial System (BX).
 
 - 📍  I'm currently living in **São Paulo, Brazil**.
 - ⚙️ I use daily: `Python`, `AWS`.
-- 🌱 I'm currently studying **English**.
+- 🌱 I'm currently studying **Data Analytics**.
 - 📝 English: EFSET English Certificate 68/100 (C1 Advanced)
 (https://www.efset.org/cert/zLkYKU)
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)](https://www.linkedin.com/in/vin%C3%ADcius-azevedo-45180ab2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vmeazevedo@gmail.com)](mailto:vmeazevedo@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vmeazevedo) 
 <br/><br><br>
 
 ## :trophy: My favorite projects:
@@ -79,24 +77,10 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
     <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
 
-### 🕓 Version Control
--   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
-    <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
-
-### 💻 IDE/Editors
--   <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black">
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-
-### 🎛️ Operating System
--   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
 ### 🥅 Tools
 -   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
@@ -107,6 +91,10 @@ Interview given to Sergio Sacanni's Science Without End channel (Space Today) ab
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white">
     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+    <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 
 <br/><br><br>
 

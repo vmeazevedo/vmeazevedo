@@ -2,11 +2,9 @@
 
 I'm Vinícius Azevedo.<br><br>
 
-During my career in aerospace, I had the opportunity to work on the development of communication systems, telemetry, flight control, graphical interfaces and subsystems. Additionally, I created algorithms to automate routines, calculate functions and control electronic modules and sensors on satellites, including Cubesats, Cansats and Picosats. I had the honor of participating in the project of the first nanosatellite produced by a Brazilian startup, financed by crowdfunding and presented to the Brazilian Space Agency (AEB).
+Data Analyst with solid experience in software engineering and digital product management. Specialist in exploratory data analysis, process automation and data visualization, using tools such as AWS Athena, SQL, Python, PySpark, AWS QuickSight and Power BI, with a focus on supporting strategic decisions based on data.
 
-In the automobile industry, I had the opportunity to develop, test and approve several firmwares and applications for OnStar Brasil (Chevrolet), impacting more than 150 thousand consumers in Brazil with General Motors cars.
-
-I currently play the role of Digital Products Analyst at Itaú Unibanco, in the Data Department. Managing and improving products related to Bacen SCR Risk (DOC3045, DOC3046), Registration Recording Systems and Denial System (BX).
+Graduated in Control and Automation Engineering, with postgraduate degrees in Economics and Software Engineering, he combines a strong technical base with analytical and strategic vision. He worked on high-impact projects, such as the evolution of negative banking and risk systems, generating relevant optimizations and efficiency gains. He also participated in innovative initiatives in the aerospace and automotive sectors.
 
 - 📍  I'm currently living in **São Paulo, Brazil**.
 - ⚙️ I use daily: `Python`, `AWS`.
